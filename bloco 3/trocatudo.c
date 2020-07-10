@@ -12,7 +12,7 @@
 (                           \        /                                                           )
 (                           /___>o<__\                                                           )
 (                           uuu    uuu                                                           )
-( Programa:                                                                                      )
+( Programa: Trocando (Todos) os Sobrenomes                                                       )
 *************************************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
